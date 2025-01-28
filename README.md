@@ -18,8 +18,8 @@ It is created in PHP with a simple custom procedural framework.
 ### Where do I download?
 
 We use github to distribute our versions, stable are tagged as releases, while development is the latest commit.
-* [Stable](https://github.com/Znote/ZnoteAAC/releases)
-* [Development](https://github.com/Znote/ZnoteAAC/archive/master.zip)
+* [Stable](https://github.com/Open-Games-Community/ZnoteAAC/tags)
+* [Development](https://github.com/Open-Games-Community/ZnoteAAC/archive/refs/heads/master.zip)
 
 **NOTE:** Development version supports TFS 1.3, but you can expect bugs to occur.
 
