@@ -10,8 +10,8 @@ It is created in PHP with a simple custom procedural framework.
 ### Where do I download?
 
 We use github to distribute our versions, stable are tagged as releases, while development is the latest commit.
-* [Stable](https://github.com/Znote/ZnoteAAC/releases)
-* [Development](https://github.com/Znote/ZnoteAAC/archive/master.zip)
+* [Stable](https://github.com/Open-Games-Community/ZnoteAAC/tags)
+* [Development](https://github.com/Open-Games-Community/ZnoteAAC/archive/refs/heads/master.zip)
 
 ### Requirements
 * PHP Version 5.6 or higher. Mostly tested on 5.6 and 7.4. Most web stacks ships with this as default these days.
@@ -48,13 +48,13 @@ This will show you the rest of the instructions as well as the mysql schema.
 Znote AAC is very rich feature wise, here is an attempt at summarizing what we offer.
 
 #### Server distribution compatibility:
-- [Znote AAC 1.6](https://github.com/Znote/ZnoteAAC/releases/tag/1.6)
+- [Znote AAC 1.6](https://github.com/Open-Games-Community/ZnoteAAC/releases/tag/1.6)
   - OTHire
   - TFS 0.2
   - TFS 0.3/4
   - TFS 1.3
   - Distributions based on these (such as OTX).
-- Znote AAC 2.0 [v2 dev branch](https://github.com/Znote/ZnoteAAC/tree/v2)
+- Znote AAC 2.0 [TFS_1.4](https://github.com/Open-Games-Community/ZnoteAAC/releases/tag/2.0-alpha)
   - TFS 1.4
   - OTservBR-Global
 
@@ -163,6 +163,3 @@ Znote AAC is very rich feature wise, here is an attempt at summarizing what we o
 - Add changelogs
 - Load and update server and spells information
 - Helpdesk
-
-### TODO List:
-* Check [Milestones](https://github.com/Znote/ZnoteAAC/milestones)
